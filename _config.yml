@@ -15,8 +15,8 @@ plugins:
 ##### Site config - won't be loaded when using the theme, you should have something similar in your site #####
 
 #> metadata #
-baseurl: "/jekyll-theme-arsha"
-url: "https://mlh-fellowship.github.io"
+baseurl: "/arsha1"
+url: "https://cialdecompatibili-netizen.github.io"
 
 name: Arsha
 title: Arsha Bootstrap Template
@@ -29,7 +29,7 @@ description: >- # this means to ignore newlines until "X:"
   With this template pixel-perfect layout and neat sectioning, it will help you create a professional-looking website for your business in no time.
 
 social_links:
-  github: https://github.com/MLH-fellowship/jekyll-theme-arsha
+  github: https://github.com/cialdecompatibili-netizen/arsha1
   discord: "#"
   twitter: "#"
 #< metadata #
